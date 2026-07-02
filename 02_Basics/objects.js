@@ -63,3 +63,18 @@ const obj2 = {3:"a", 4:"b"}
 
 const obj3 = Object.assign({},obj1, obj2)
 console.log(obj3);
+//===================================================================
+
+// course.courseInstructor
+
+const{courseInstructor: Instructor}
+// console.log(courseInstructor);
+console.log(instructor);
+// object & arrays can be destructure as per requirement.
+const navbar = ({company}) = { // giving {} is doing destructuring
+
+}
+navbar(company = "hitesh")
+
+console.log(instructor);
+
